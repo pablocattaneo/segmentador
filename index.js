@@ -1,1 +1,3 @@
-module.exports.hi = 'Hola!'
+module.exports.hi = () => {
+  console.log("hi!")
+}
