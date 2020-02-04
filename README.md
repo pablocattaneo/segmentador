@@ -7,6 +7,6 @@ This is a segmentador
 `npm i npm-segmentador`
 
 ```
-const hi require('segmentador')
+const hi = require('npm-segmentador')
 
 ```
