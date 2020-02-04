@@ -4,7 +4,7 @@ This is a segmentador
 
 ## Instalación
 
-`npm i segmentador --save`
+`npm i npm-segmentador`
 
 ```
 const hi require('segmentador')
