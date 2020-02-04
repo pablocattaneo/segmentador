@@ -1,0 +1,19 @@
+{
+  "name": "npm-segmentador",
+  "version": "1.0.0",
+  "description": "Testeando como hacer un modulo del segmentador",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablocattaneo/segmentador.git"
+  },
+  "author": "Lumile",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pablocattaneo/segmentador/issues"
+  },
+  "homepage": "https://github.com/pablocattaneo/segmentador#readme"
+}
