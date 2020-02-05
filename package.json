@@ -1,6 +1,6 @@
 {
   "name": "npm-segmentador",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Testeando como hacer un modulo del segmentador",
   "main": "index.js",
   "scripts": {
