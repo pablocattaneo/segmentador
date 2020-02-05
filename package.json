@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/pablocattaneo/segmentador/issues"
   },
-  "homepage": "https://github.com/pablocattaneo/segmentador#readme"
+  "homepage": "https://github.com/pablocattaneo/segmentador#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  },
+  "dependencies": {
+    "@types/node": "^13.7.0"
+  }
 }
