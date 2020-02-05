@@ -1,3 +1,3 @@
 module.exports.hi = () => {
-  console.log("hi!")
+  console.log("hi! from Typescript")
 }
